@@ -9,4 +9,4 @@ and everyone involved in designing robust and optimized optical networks, on the
 
 -   To download the **latest versions**, [click here](https://support.setics-sttar.com/en/support/solutions/articles/4000158098) (login required).
 
--   To send a **support request**, [click here](https://support.setics-sttar.com/) (login required).
+-   To send a **support request**, [click here](https://support.setics-sttar.com/en/support/tickets/new) (login required).
